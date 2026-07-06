@@ -1,0 +1,13 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# .NET
+backend/bin/
+backend/obj/
+*.user
+.vs/
+
+# Config
+.env
+.env.local
